@@ -1,0 +1,38 @@
+/* .center {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  text-align: center;
+  font-family: cursive;
+}
+input{
+  margin: 10px;
+  text-align: center;
+}
+h2{
+  font-family: emoji;
+  text-align: center;
+  padding-top: 25px;
+  /* fontsze: large; */
+  /* color: brown;
+}  */
+
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+button {
+  margin-top: 1em;
+  padding: 0.5em 1.25em;
+  border-radius: 0.5em;
+  cursor: pointer;
+  background-color: blue;
+  border: none;
+  margin-left: 100px;
+color: white;
+}

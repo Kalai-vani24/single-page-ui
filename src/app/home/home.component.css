@@ -1,0 +1,7 @@
+.home-content {
+    display: flex;
+    flex-direction: column;
+    gap: 45px;
+    line-height: 1.3;
+    letter-spacing: 1px;
+  }
